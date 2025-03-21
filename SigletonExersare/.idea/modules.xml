@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AgeTurSingleton/AgeTurSingleton.iml" filepath="$PROJECT_DIR$/AgeTurSingleton/AgeTurSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AgentieImobiliaraSingleton/AgentieImobiliaraSingleton.iml" filepath="$PROJECT_DIR$/AgentieImobiliaraSingleton/AgentieImobiliaraSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasiniSingleton/MasiniSingleton.iml" filepath="$PROJECT_DIR$/MasiniSingleton/MasiniSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PescuitSingleton/PescuitSingleton.iml" filepath="$PROJECT_DIR$/PescuitSingleton/PescuitSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SigletonExersare.iml" filepath="$PROJECT_DIR$/SigletonExersare.iml" />
+    </modules>
+  </component>
+</project>
