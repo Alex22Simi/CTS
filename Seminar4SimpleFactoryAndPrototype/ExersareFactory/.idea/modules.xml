@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactoryExersare.iml" filepath="$PROJECT_DIR$/FactoryExersare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema1Restaurant/Problema1Restaurant.iml" filepath="$PROJECT_DIR$/Problema1Restaurant/Problema1Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema1RestaurantV2/Problema1RestaurantV2.iml" filepath="$PROJECT_DIR$/Problema1RestaurantV2/Problema1RestaurantV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema1RestaurantV3/Problema1RestaurantV3.iml" filepath="$PROJECT_DIR$/Problema1RestaurantV3/Problema1RestaurantV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaAgeTurCuInterfataSFandS/ProblemaAgeTurCuInterfataSFandS.iml" filepath="$PROJECT_DIR$/ProblemaAgeTurCuInterfataSFandS/ProblemaAgeTurCuInterfataSFandS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaAgeTurSimpleFactoryAndSingleton/ProblemaAgeTurSimpleFactoryAndSingleton.iml" filepath="$PROJECT_DIR$/ProblemaAgeTurSimpleFactoryAndSingleton/ProblemaAgeTurSimpleFactoryAndSingleton.iml" />
+    </modules>
+  </component>
+</project>
