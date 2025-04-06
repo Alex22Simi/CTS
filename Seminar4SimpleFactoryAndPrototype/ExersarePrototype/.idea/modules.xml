@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExersarePrototype.iml" filepath="$PROJECT_DIR$/ExersarePrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema4RestaurantV1/Problema4RestaurantV1.iml" filepath="$PROJECT_DIR$/Problema4RestaurantV1/Problema4RestaurantV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema4RestaurantV2/Problema4RestaurantV2.iml" filepath="$PROJECT_DIR$/Problema4RestaurantV2/Problema4RestaurantV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema4RestaurantV3/Problema4RestaurantV3.iml" filepath="$PROJECT_DIR$/Problema4RestaurantV3/Problema4RestaurantV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaAgeTur/ProblemaAgeTur.iml" filepath="$PROJECT_DIR$/ProblemaAgeTur/ProblemaAgeTur.iml" />
     </modules>
   </component>
 </project>

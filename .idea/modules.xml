@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/AgeTurSingleton/AgeTurSingleton.iml" filepath="$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/AgeTurSingleton/AgeTurSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/AgentieImobiliaraSingleton/AgentieImobiliaraSingleton.iml" filepath="$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/AgentieImobiliaraSingleton/AgentieImobiliaraSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiuTenis/ExercitiuTenis.iml" filepath="$PROJECT_DIR$/ExercitiuTenis/ExercitiuTenis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersarePrototype/ExersarePrototype.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersarePrototype/ExersarePrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/MasiniSingleton/MasiniSingleton.iml" filepath="$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/MasiniSingleton/MasiniSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/PescuitSingleton/PescuitSingleton.iml" filepath="$PROJECT_DIR$/Seminar3Singleton/SigletonExersare/PescuitSingleton/PescuitSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/Problema1Restaurant/Problema1Restaurant.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/Problema1Restaurant/Problema1Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/Problema1RestaurantV2/Problema1RestaurantV2.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/Problema1RestaurantV2/Problema1RestaurantV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/Problema1RestaurantV3/Problema1RestaurantV3.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/Problema1RestaurantV3/Problema1RestaurantV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersarePrototype/Problema4RestaurantV2/Problema4RestaurantV2.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersarePrototype/Problema4RestaurantV2/Problema4RestaurantV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/ProblemaAgeTurCuInterfataSFandS/ProblemaAgeTurCuInterfataSFandS.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/ProblemaAgeTurCuInterfataSFandS/ProblemaAgeTurCuInterfataSFandS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/ProblemaAgeTurSimpleFactoryAndSingleton/ProblemaAgeTurSimpleFactoryAndSingleton.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactoryAndPrototype/ExersareFactory/ProblemaAgeTurSimpleFactoryAndSingleton/ProblemaAgeTurSimpleFactoryAndSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1ClaseInterfete/Seminar1ClaseInterfete.iml" filepath="$PROJECT_DIR$/Seminar1ClaseInterfete/Seminar1ClaseInterfete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2PrincipiiCleanCode/Seminar2ExersareZcts/Seminar2ExersareZcts.iml" filepath="$PROJECT_DIR$/Seminar2PrincipiiCleanCode/Seminar2ExersareZcts/Seminar2ExersareZcts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2PrincipiiCleanCode/Seminar2PrincipiiCleanCode.iml" filepath="$PROJECT_DIR$/Seminar2PrincipiiCleanCode/Seminar2PrincipiiCleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3Singleton/Seminar3cstZ/Seminar3cstZ.iml" filepath="$PROJECT_DIR$/Seminar3Singleton/Seminar3cstZ/Seminar3cstZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2PrincipiiCleanCode/seminar3ZuPrincipiiCleanCode/seminar3ZuPrincipiiCleanCode.iml" filepath="$PROJECT_DIR$/Seminar2PrincipiiCleanCode/seminar3ZuPrincipiiCleanCode/seminar3ZuPrincipiiCleanCode.iml" />
+    </modules>
+  </component>
+</project>

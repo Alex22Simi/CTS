@@ -1,0 +1,6 @@
+Un senzor de calitate a aerului inteligent va trimite în fiecare dimineață un raport privind calitatea aerului estimată pentru ziua respectivă. Clasa aferentă raportului implementează interfața AbstractAirQualityReport. Tipul de raport este influențat de valoarea nivelului de particule fine (PM 2.5) estimată de modulul de machine learning extern senzorului (va proveni din exterior) astfel:
+dacă valoarea este cuprinsă în intervalul 0-30 se va genera un raport de aer curat;
+dacă valoarea este cuprinsă în intervalul 31-70 se va genera un raport de avertizare;
+dacă valoarea depășește 71 se va genera un raport de risc asupra sănătății.
+
+Utilizați un design pattern ce permite crearea raportului corespunzător valorii PM 2.5 primită de senzor.

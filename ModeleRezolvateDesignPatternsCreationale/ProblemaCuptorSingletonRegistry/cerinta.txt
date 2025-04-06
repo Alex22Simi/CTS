@@ -1,0 +1,9 @@
+  Cu timpul, s-a observat că existența unui unic cuptor întârzie foarte mult lansarea comenzilor.
+Astfel, restaurant a mai achizionat un număr de alte 3 cuptoare pentru a optimiza timpul de
+așteptare pentru gătirea preparatelor. Să se reorienteze implementarea curentă astfel încât
+bucătarii să aibă la dispoziție o listă de 4 cuptoare. Asignarea preparatelor la cuptoare se
+realizează printr-o minimizare a timpului de așteptare. De asemenea, se va ține cont și de gradele
+de gătire ale preparatului în concordanță cu gradele maxime existente per fiecare cuptor în parte.
+2p. Să se testeze soluția prin crearea unui număr de 5 comenzi și să se asigneze optimizat comenzile
+la cuptoarele existente. Să se apeleze metoda de afișare a tuturor comenzilor aflate în așteptare
+pentru fiecare cuptor existent în restaurant.

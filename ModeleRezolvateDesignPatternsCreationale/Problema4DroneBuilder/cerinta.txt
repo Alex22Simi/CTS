@@ -1,0 +1,9 @@
+Ești dezvoltator software la o companie care produce drone comerciale. Lucrezi la
+software-ul pentru drone și trebuie să implementezi diferite module conform
+următoarelor cerințe:
+Clasa Drone va gestiona toate detaliile dronei. Adaugă mai multe atribute (cel
+puțin 4-5) și implementează un mecanism care să permită altor dezvoltatori să
+creeze eficient o dronă cu orice combinație de module/atribute, fără posibilitatea
+de a le modifica ulterior (odată ce drona este creată, procesul de fabricație începe
+și nu se mai poate schimba).
+

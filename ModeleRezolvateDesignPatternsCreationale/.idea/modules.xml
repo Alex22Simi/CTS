@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTStest1Creationale.iml" filepath="$PROJECT_DIR$/CTStest1Creationale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema4DroneBuilder/Problema4DroneBuilder.iml" filepath="$PROJECT_DIR$/Problema4DroneBuilder/Problema4DroneBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonEager/ProblemaCuptorSingletonEager.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonEager/ProblemaCuptorSingletonEager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonLazy/ProblemaCuptorSingletonLazy.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonLazy/ProblemaCuptorSingletonLazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonRegistry/ProblemaCuptorSingletonRegistry.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonRegistry/ProblemaCuptorSingletonRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonStaticBlock/ProblemaCuptorSingletonStaticBlock.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonStaticBlock/ProblemaCuptorSingletonStaticBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaMagazinMallBuilder/ProblemaMagazinMallBuilder.iml" filepath="$PROJECT_DIR$/ProblemaMagazinMallBuilder/ProblemaMagazinMallBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaMagazinPantofiBuilder/ProblemaMagazinPantofiBuilder.iml" filepath="$PROJECT_DIR$/ProblemaMagazinPantofiBuilder/ProblemaMagazinPantofiBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaRestaurantFactoryMethod/ProblemaRestaurantFactoryMethod.iml" filepath="$PROJECT_DIR$/ProblemaRestaurantFactoryMethod/ProblemaRestaurantFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSenzorBuilderCuClasaAbstracta/ProblemaSenzorBuilderCuClasaAbstracta.iml" filepath="$PROJECT_DIR$/ProblemaSenzorBuilderCuClasaAbstracta/ProblemaSenzorBuilderCuClasaAbstracta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSenzorSimpleFactory/ProblemaSenzorSimpleFactory.iml" filepath="$PROJECT_DIR$/ProblemaSenzorSimpleFactory/ProblemaSenzorSimpleFactory.iml" />
+    </modules>
+  </component>
+</project>
