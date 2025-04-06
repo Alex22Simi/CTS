@@ -1,0 +1,30 @@
+n cadrul Campionatului Mondial de Fotbal, fiecare echipă națională este identificată printr-un cod unic (ex: 1 pentru Brazilia, 2 pentru Argentina, etc.).
+
+Deoarece echipele naționale pot fi accesate din diverse părți ale aplicației (meciuri, grupe, statistici), se dorește o implementare centralizată care să ofere acces rapid și sigur la instanțele de echipe deja înregistrate.
+
+Să se implementeze o soluție care utilizează Singleton Registry Pattern, astfel încât:
+
+🔧 Cerințe tehnice:
+să existe o clasă abstractă AEchipaNationala care conține atribute comune (ex: nume, stilJoc, listaJucatori)
+
+fiecare echipă concretă (EchipaBrazilia, EchipaArgentina, EchipaFranta etc.) va extinde această clasă și va conține jucători specifici
+
+să existe o clasă EchipaRegistry implementată ca Singleton, care:
+
+păstrează într-o Mapă statică toate echipele înregistrate (Map<Integer, AEchipaNationala>)
+
+oferă metode pentru:
+
+addEchipa(int id, AEchipaNationala echipa)
+
+getEchipa(int id)
+
+afiseazaToateEchipele()
+
+, să se demonstreze:
+
+adăugarea de echipe în registry
+
+accesarea unei echipe prin ID și afișarea ei
+
+verificarea că două apeluri la getEchipa(id) returnează aceeași instanță (nu se creează obiecte duplicate)

@@ -1,0 +1,8 @@
+ În cadrul aplicației de gestiune a procesului de imprimare de documente, există
+o singura imprimanta unica descrisa prin intermediul clasei AImprimanta. Angajații au posibilitatea de a
+lansa o cerere de printare a documentelor dorite (interfata IDocument) către imprimanta
+existenta.
+Procesul de imprimare primește documentul, pagina de start, pagina de stop și tipul de printare
+și ține cont de numărul de pagini printate ale documentului astfel încât la fiecare 10 pagini se
+consumă 5 unități de toner. Dacă documentul se printează color și conține elemente colorate,
+atunci doar imprimantele cu această opțiune le pot gestiona, iar consumul de toner se dublează.

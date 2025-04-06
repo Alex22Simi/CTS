@@ -14,11 +14,18 @@
       <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonStaticBlock/ProblemaCuptorSingletonStaticBlock.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonStaticBlock/ProblemaCuptorSingletonStaticBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaMagazinMallBuilder/ProblemaMagazinMallBuilder.iml" filepath="$PROJECT_DIR$/ProblemaMagazinMallBuilder/ProblemaMagazinMallBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaMagazinPantofiBuilder/ProblemaMagazinPantofiBuilder.iml" filepath="$PROJECT_DIR$/ProblemaMagazinPantofiBuilder/ProblemaMagazinPantofiBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaPantofiPrototype/ProblemaPantofiPrototype.iml" filepath="$PROJECT_DIR$/ProblemaPantofiPrototype/ProblemaPantofiPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaRestaurantFactoryMethod/ProblemaRestaurantFactoryMethod.iml" filepath="$PROJECT_DIR$/ProblemaRestaurantFactoryMethod/ProblemaRestaurantFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaSenzorBuilderCuClasaAbstracta/ProblemaSenzorBuilderCuClasaAbstracta.iml" filepath="$PROJECT_DIR$/ProblemaSenzorBuilderCuClasaAbstracta/ProblemaSenzorBuilderCuClasaAbstracta.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaSenzorSimpleFactory/ProblemaSenzorSimpleFactory.iml" filepath="$PROJECT_DIR$/ProblemaSenzorSimpleFactory/ProblemaSenzorSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSingletonEagerImprimanta/ProblemaSingletonEagerImprimanta.iml" filepath="$PROJECT_DIR$/ProblemaSingletonEagerImprimanta/ProblemaSingletonEagerImprimanta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSingletonLazyImprimanta/ProblemaSingletonLazyImprimanta.iml" filepath="$PROJECT_DIR$/ProblemaSingletonLazyImprimanta/ProblemaSingletonLazyImprimanta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSingletonRegistryImprimanta/ProblemaSingletonRegistryImprimanta.iml" filepath="$PROJECT_DIR$/ProblemaSingletonRegistryImprimanta/ProblemaSingletonRegistryImprimanta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSingletonRegistryMondial/ProblemaSingletonRegistryMondial.iml" filepath="$PROJECT_DIR$/ProblemaSingletonRegistryMondial/ProblemaSingletonRegistryMondial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSpitalBuilder/ProblemaSpitalBuilder.iml" filepath="$PROJECT_DIR$/ProblemaSpitalBuilder/ProblemaSpitalBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaSpitalFactoryMethod/ProblemaSpitalFactoryMethod.iml" filepath="$PROJECT_DIR$/ProblemaSpitalFactoryMethod/ProblemaSpitalFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaSpitalSimpleFactory/ProblemaSpitalSimpleFactory.iml" filepath="$PROJECT_DIR$/ProblemaSpitalSimpleFactory/ProblemaSpitalSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaStikerPrototype/ProblemaStikerPrototype.iml" filepath="$PROJECT_DIR$/ProblemaStikerPrototype/ProblemaStikerPrototype.iml" />
     </modules>
   </component>
 </project>

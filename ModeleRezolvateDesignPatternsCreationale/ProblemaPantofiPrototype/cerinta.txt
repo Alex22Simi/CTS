@@ -1,0 +1,45 @@
+Cerințe obligatorii
+1. Pattern-urile implementate trebuie sa respecte definiția din GoF discutată în cadrul cursurilor și
+laboratoarelor. Nu sunt acceptate variații sau implementări incomplete.
+2. Pattern-ul trebuie implementat în totalitate corect pentru a fi luat în calcul.
+3. Soluția nu conține erori de compilare.
+4. Pattern-urile pot fi tratate distinct sau pot fi implementate pe același set de clase.
+5. Implementările care nu au legătura funcțională cu cerințele din subiect NU vor fi luate în calcul
+(preluare unui exemplu din alte surse nu va fi punctată).
+6. NU este permisă modificare claselor primite.
+7. Soluțiile vor fi verificate încrucișat folosind MOSS. Nu este permisă partajarea de cod între
+studenți. Soluțiile care au un grad de similitudine mai mare de 30% vor fi anulate.
+Cerințe Clean Code obligatorii (soluția este depunctata cu câte 2 puncte pentru fiecare cerința ce nu este
+respectată) - maxim se pot pierde 8 puncte
+1. Pentru denumirea claselor, funcțiilor, testelor unitare, atributelor și a variabilelor se respecta
+convenția de nume de tip Java Mix CamelCase;
+2. Pattern-urile și clasa ce conține metoda main() sunt definite in pachete distincte ce au forma
+cts.nume.prenume.gNrGrupa.denumire_pattern, cts.nume.prenume.gNrGrupa.main (studenții
+din anul suplimentar trec “as” în loc de gNrGrupa);
+3. Clasele și metodele sunt implementate respectând principiile KISS, DRY și SOLID (atenție la DIP);
+4. Denumirile de clase, metode, variabile, precum și mesajele afișate la consola trebuie sa aibă
+legătura cu subiectul primit (nu sunt acceptate denumiri generice). Funcțional, metodele vor afișa
+mesaje la consola care sa simuleze acțiunea cerută sau vor implementa prelucrări simple.
+
+
+
+
+
+
+
+
+Se dezvoltă o aplicație software destinată unui magazin de pantofi.
+7p. În cadrul aplicației de gestiune a pantofilor personalizați de către o firmă online se dorește
+implementarea unui modul de înregistrare de noi cereri de comandă de pantofi făcuți la
+comandă. În funcție de fiecare stil de pantof (rock, pop, punk, etc.) ales de clienți, perechea de
+pantofi se personalizează cu niște mesaje text predefinite printate de pantofi și acest set de
+mesaje diferă de la un stil de pantof la altul. Clientul are posibilitatea ulterior să își modifice
+propria listă în funcție de dorințele și ideile sale. Lista de mesaje se găsește într-o bază de date și
+s-a observat că timpul de încărcare a acestei liste pentru fiecare pantof este foarte mare.
+Restricții de implementare:
+• Însumarea tuturor caracterelor din cadrul listei de mesaje nu trebuie să depășească mărimea
+pantofului în procesul în care clientul modifică lista predefinită încărcată inițial.
+3p. Să se testeze soluția prin înregistrarea unui număr de minim 5 de cereri noi de pantofi
+personalizați și parametrizarea ulterioară a cel puțin 2 pantofi aferenți cererilor efectuate. Să se
+verifice funcționalitatea de adăugare de noi mesaje text printabile precum și funcționalitatea de
+calcul preț.

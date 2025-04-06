@@ -1,0 +1,49 @@
+Cerințe obligatorii
+1. Pattern-urile implementate trebuie sa respecte definiția din GoF discutată în cadrul cursurilor și
+laboratoarelor. Nu sunt acceptate variații sau implementări incomplete.
+2. Pattern-ul trebuie implementat în totalitate corect pentru a fi luat în calcul.
+3. Soluția nu conține erori de compilare.
+4. Pattern-urile pot fi tratate distinct sau pot fi implementate pe același set de clase.
+5. Implementările care nu au legătura funcțională cu cerințele din subiect NU vor fi luate în calcul
+(preluare unui exemplu din alte surse nu va fi punctată).
+6. NU este permisă modificare claselor primite.
+7. Soluțiile vor fi verificate încrucișat folosind MOSS. Nu este permisă partajarea de cod între
+studenți. Soluțiile care au un grad de similitudine mai mare de 30% vor fi anulate.
+Cerințe Clean Code obligatorii (soluția este depunctata cu câte 2 puncte pentru fiecare cerința ce nu este
+respectată) - maxim se pot pierde 8 puncte
+1. Pentru denumirea claselor, funcțiilor, testelor unitare, atributelor și a variabilelor se respecta
+convenția de nume de tip Java Mix CamelCase;
+2. Pattern-urile și clasa ce conține metoda main() sunt definite in pachete distincte ce au forma
+cts.nume.prenume.gNrGrupa.denumire_pattern, cts.nume.prenume.gNrGrupa.main (studenții
+din anul suplimentar trec “as” în loc de gNrGrupa);
+3. Clasele și metodele sunt implementate respectând principiile KISS, DRY și SOLID (atenție la DIP);
+4. Denumirile de clase, metode, variabile, precum și mesajele afișate la consola trebuie sa aibă
+legătura cu subiectul primit (nu sunt acceptate denumiri generice). Funcțional, metodele vor
+afișa mesaje la consola care sa simuleze acțiunea cerută sau vor implementa prelucrări simple.
+
+
+
+
+
+
+
+5p. În cadrul aplicației de gestiune a procesului de imprimare de documente, există un număr de 3
+imprimante unice descrise prin intermediul clasei AImprimanta. Angajații au posibilitatea de a
+lansa o cerere de printare a documentelor dorite (interfata IDocument) către imprimantele
+existente definite unic prin intermediul IP-ului. Se cunoaște faptul că toți angajații manipulează
+acest număr fix de imprimante.
+Procesul de imprimare primește documentul, pagina de start, pagina de stop și tipul de printare
+și ține cont de numărul de pagini printate ale documentului astfel încât la fiecare 10 pagini se
+consumă 5 unități de toner. Dacă documentul se printează color și conține elemente colorate,
+atunci doar imprimantele cu această opțiune le pot gestiona, iar consumul de toner se dublează.
+Se dorește implementarea unui modul de selecție automată a unei imprimante din lista de
+imprimante disponibilă la nivel centralizat. Alegerea ține cont de numărul de pagini și de
+opțiunea de printare color sau nu. Implementarea nu trebuie să permită construirea de alte
+obiecte de tip imprimantă.
+3p.  Să se testeze soluția prin popularea cu un număr de trei imprimante și lansarea spre imprimare
+a 3 documente, de tip color și alb negru. Un proces de printare să arunce excepție din cauza
+lipsei de toner sau de opțiune color la nivel de imprimantă. După printare, se afișează nivelul de
+toner din imprimante.
+2p.  Să se propună și implementeze o modalitate de gestiune a procesului de imprimare a acelor
+documente mari care nu se pot imprima de o singură imprimantă dar se pot imprima dacă se
+separă pe mai multe imprimante.

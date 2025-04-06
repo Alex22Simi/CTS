@@ -1,0 +1,14 @@
+Pb1. În cadrul aplicației de gestiune a activității unui service auto de tunare mașini, se dorește
+implementarea unui modul pentru facilitarea procesului de colantare mașini. Crearea unui obiect
+de tip Sticker este un proces consumator întrucât sunt necesare informații suplimentare deținute
+de producătorii mașinilor iar dimensiunile exacte diferă de la un model la altul. Unicitatea
+dimensiunilor este reprezentată de modelul mașinii alături de anul de fabricație. Constatându-se
+faptul că service-ul gestionează de multe ori modele de mașini identice, să se orienteze
+implementarea modulului în scopul optimizării timpului alocat creării specificațiilor necesare unui
+Sticker. Crearea unui Sticker primește ca parametru un obiect de tipul unei clase care
+implementează interfața IMasina. Consultând producătorii de mașini, este construit obiectul de
+tip Sticker cu dimensiunile impuse.
+public interface IMasina {
+String getModelMasina();
+int getAnFabricatie();
+}
