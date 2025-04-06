@@ -1,0 +1,23 @@
+În cadrul unui sistem de management al contractelor, se observă că anumite tipuri de contracte sunt utilizate frecvent, cum ar fi:
+
+contracte sportive (ex: pentru jucători sau antrenori),
+
+contracte corporate (ex: pentru sponsori),
+
+contracte pentru evenimente de tip party (ex: concerte, petreceri etc.).
+
+Deoarece generarea acestor contracte presupune adăugarea unor clauze standard și setări comune, se dorește implementarea unui catalog de prototipuri pentru aceste tipuri de contracte.
+
+Să se implementeze aplicația folosind Prototype Design Pattern, astfel încât:
+
+să existe o clasă abstractă AContract care definește metoda de clonare;
+
+fiecare tip de contract concret (ContractSportiv, ContractCorporate, ContractParty) să extindă clasa abstractă și să își definească propriile clauze;
+
+să existe o clasă PrototypeContractFactory care reține prototipurile și oferă instanțe clonate la cerere;
+
+ să se obțină mai multe contracte clonând prototipurile existente, iar apoi să se afișeze informațiile despre fiecare;
+
+clasa AContract să implementeze corect metoda clone() astfel încât listele de clauze să fie copiate în profunzime (deep copy).
+
+Aplicația trebuie să demonstreze funcționalitatea fără ca obiectele să fie create manual prin new, ci exclusiv prin clonarea prototipurilor înregistrate.

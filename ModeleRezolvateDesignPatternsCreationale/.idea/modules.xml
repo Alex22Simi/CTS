@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTStest1Creationale.iml" filepath="$PROJECT_DIR$/CTStest1Creationale.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema4DroneBuilder/Problema4DroneBuilder.iml" filepath="$PROJECT_DIR$/Problema4DroneBuilder/Problema4DroneBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCampionatMondialFactoryMethod/ProblemaCampionatMondialFactoryMethod.iml" filepath="$PROJECT_DIR$/ProblemaCampionatMondialFactoryMethod/ProblemaCampionatMondialFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCampionatMondialPrototype/ProblemaCampionatMondialPrototype.iml" filepath="$PROJECT_DIR$/ProblemaCampionatMondialPrototype/ProblemaCampionatMondialPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCampionatMondialSimpleFactory/ProblemaCampionatMondialSimpleFactory.iml" filepath="$PROJECT_DIR$/ProblemaCampionatMondialSimpleFactory/ProblemaCampionatMondialSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaContractePrototype/ProblemaContractePrototype.iml" filepath="$PROJECT_DIR$/ProblemaContractePrototype/ProblemaContractePrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonEager/ProblemaCuptorSingletonEager.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonEager/ProblemaCuptorSingletonEager.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonLazy/ProblemaCuptorSingletonLazy.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonLazy/ProblemaCuptorSingletonLazy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaCuptorSingletonRegistry/ProblemaCuptorSingletonRegistry.iml" filepath="$PROJECT_DIR$/ProblemaCuptorSingletonRegistry/ProblemaCuptorSingletonRegistry.iml" />
@@ -13,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/ProblemaRestaurantFactoryMethod/ProblemaRestaurantFactoryMethod.iml" filepath="$PROJECT_DIR$/ProblemaRestaurantFactoryMethod/ProblemaRestaurantFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaSenzorBuilderCuClasaAbstracta/ProblemaSenzorBuilderCuClasaAbstracta.iml" filepath="$PROJECT_DIR$/ProblemaSenzorBuilderCuClasaAbstracta/ProblemaSenzorBuilderCuClasaAbstracta.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemaSenzorSimpleFactory/ProblemaSenzorSimpleFactory.iml" filepath="$PROJECT_DIR$/ProblemaSenzorSimpleFactory/ProblemaSenzorSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSpitalFactoryMethod/ProblemaSpitalFactoryMethod.iml" filepath="$PROJECT_DIR$/ProblemaSpitalFactoryMethod/ProblemaSpitalFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSpitalSimpleFactory/ProblemaSpitalSimpleFactory.iml" filepath="$PROJECT_DIR$/ProblemaSpitalSimpleFactory/ProblemaSpitalSimpleFactory.iml" />
     </modules>
   </component>
 </project>

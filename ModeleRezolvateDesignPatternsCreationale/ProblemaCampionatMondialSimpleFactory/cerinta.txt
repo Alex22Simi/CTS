@@ -1,0 +1,5 @@
+La Campionatul Mondial participă echipe naționale din diferite continente, iar fiecare echipă are un stil distinct de joc. Se dorește implementarea unui modul care să permită crearea de obiecte de tip EchipaNationala în funcție de țara specificată.
+
+Fiecare echipă va implementa o interfață comună care definește comportamente precum: afiseazaStilJoc() și getContinent().
+
+Să se utilizeze Simple Factory Pattern pentru a crea echipele în funcție de țara aleasă (ex: Brazilia, Germania, Japonia), fără ca utilizatorul să cunoască detaliile despre implementarea internă a claselor.

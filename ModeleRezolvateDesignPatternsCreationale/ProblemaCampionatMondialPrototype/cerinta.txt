@@ -1,0 +1,15 @@
+În cadrul Campionatului Mondial de Fotbal, anumite echipe naționale participă frecvent și au un stil de joc și o structură a lotului relativ constantă (ex: Brazilia, Argentina, Germania).
+
+Pentru a simula rapid meciuri sau grupe, organizatorii doresc un catalog de prototipuri pentru echipele naționale prestabilite, care să permită instanțierea rapidă prin clonare, fără a reconstrui echipele de la zero.
+
+Să se implementeze aplicația folosind Prototype Design Pattern, astfel încât:
+
+să existe o clasă abstractă AEchipaNationala, care definește o metodă de clonare (clone()) și conține informații comune (ex: nume echipă, stil joc, listă jucători);
+
+fiecare echipă concretă (EchipaBrazilia, EchipaArgentina, EchipaGermania) va avea o listă de jucători și un stil specific;
+
+să se creeze o clasă PrototypeEchipaFactory care reține un registru de prototipuri și oferă echipe clonate la cerere;
+
+să se obțină instanțe multiple ale unor echipe (clonate), care pot fi afișate sau modificate fără a afecta prototipul;
+
+metoda clone() să asigure deep copy pentru lista de jucători, pentru a evita efecte secundare.

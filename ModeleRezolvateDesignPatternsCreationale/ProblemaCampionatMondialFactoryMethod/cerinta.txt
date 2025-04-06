@@ -1,0 +1,13 @@
+La Campionatul Mondial, fiecare continent are propriile reguli și stiluri de selecție a echipelor naționale.
+
+Se dorește implementarea unui sistem care să permită fiecărui continent să își creeze echipa națională specifică, folosind propriile reguli de formare.
+
+Să se aplice Factory Method Pattern, în care:
+
+Există o clasă abstractă EchipaCreator ce definește metoda abstractă creeazaEchipa().
+
+Fiecare continent (ex: CreatorEuropa, CreatorAmericaDeSud) extinde această clasă și implementează propria variantă de creare a echipei.
+
+Fiecare echipă creată va implementa interfața IEchipaNationala, iar metodele vor furniza detalii despre stilul de joc și continentul din care provine.
+
+În aplicație, utilizatorul poate alege un continent, iar sistemul va folosi creatorul asociat pentru a genera o echipă națională potrivită acelui continent.
