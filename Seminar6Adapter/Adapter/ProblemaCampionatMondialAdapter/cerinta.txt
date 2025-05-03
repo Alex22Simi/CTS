@@ -1,0 +1,14 @@
+Comitetul organizator al Campionatului Mondial de Fotbal utilizează o aplicație proprie pentru gestionarea jucătorilor
+naționali, care permite adăugarea jucătorilor și afișarea detaliilor lor (nume, echipă, poziție).
+
+Pentru meciurile oficiale, FIFA pune la dispoziție o aplicație separată, dedicată transmiterii
+datelor despre jucători către sistemele TV și de statistică, însă aceasta utilizează
+ o clasă diferită, care oferă doar o metodă transmiteDate() (fără a ști cum arată intern un jucător).
+
+Comitetul dorește ca sistemul FIFA să poată folosi direct obiectele JucatorNational
+ din aplicația Campionatului Mondial, fără a modifica codul deja existent în niciuna dintre aplicații.
+
+ ✅ Cerință:
+ Să se implementeze o soluție prin care aplicația FIFA să poată utiliza direct obiectele JucatorNational din aplicația Campionatului Mondial,
+  folosind pattern-ul Adapter, fără a modifica clasele deja existente.
+

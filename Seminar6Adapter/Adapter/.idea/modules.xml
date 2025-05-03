@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter.iml" filepath="$PROJECT_DIR$/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterImprimanta/AdapterImprimanta.iml" filepath="$PROJECT_DIR$/AdapterImprimanta/AdapterImprimanta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaAgeTurAdapter/ProblemaAgeTurAdapter.iml" filepath="$PROJECT_DIR$/ProblemaAgeTurAdapter/ProblemaAgeTurAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaCampionatMondialAdapter/ProblemaCampionatMondialAdapter.iml" filepath="$PROJECT_DIR$/ProblemaCampionatMondialAdapter/ProblemaCampionatMondialAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaRestaurantAdapter/ProblemaRestaurantAdapter.iml" filepath="$PROJECT_DIR$/ProblemaRestaurantAdapter/ProblemaRestaurantAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemaSpitalAdapter/ProblemaSpitalAdapter.iml" filepath="$PROJECT_DIR$/ProblemaSpitalAdapter/ProblemaSpitalAdapter.iml" />
+    </modules>
+  </component>
+</project>
