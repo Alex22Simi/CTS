@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObserverSTBPb11/ObserverSTBPb11.iml" filepath="$PROJECT_DIR$/ObserverSTBPb11/ObserverSTBPb11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarSapt11Za.iml" filepath="$PROJECT_DIR$/SeminarSapt11Za.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategySTBPb10/StrategySTBPb10.iml" filepath="$PROJECT_DIR$/StrategySTBPb10/StrategySTBPb10.iml" />
+    </modules>
+  </component>
+</project>

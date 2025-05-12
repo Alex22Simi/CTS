@@ -1,0 +1,4 @@
+Se doreste implementarea unei aplicatii prin care utilizatorii se pot inregistra intr-o lista de
+calatori care sa fie anuntati atunci cand autobuzul pleaca de la capat de linie. Autobuzul cand pleaca
+in cursa de la capatul de linie trebuie sa anunte toti acesti calatori că s-a pus in miscare. Calatorii
+vor putea in acest mod sa stie cand trebuie sa astepte autobuzul in statie.
