@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompositePb8Spital/CompositePb8Spital.iml" filepath="$PROJECT_DIR$/CompositePb8Spital/CompositePb8Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyweightPb10Spital/FlyweightPb10Spital.iml" filepath="$PROJECT_DIR$/FlyweightPb10Spital/FlyweightPb10Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarCTSsapt10Za.iml" filepath="$PROJECT_DIR$/SeminarCTSsapt10Za.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplatePb14Spital/TemplatePb14Spital.iml" filepath="$PROJECT_DIR$/TemplatePb14Spital/TemplatePb14Spital.iml" />
+    </modules>
+  </component>
+</project>
