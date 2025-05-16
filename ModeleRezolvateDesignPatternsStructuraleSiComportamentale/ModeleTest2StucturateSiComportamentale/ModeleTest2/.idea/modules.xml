@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModeleTest2.iml" filepath="$PROJECT_DIR$/ModeleTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiect1ProxyComposite/Subiect1ProxyComposite.iml" filepath="$PROJECT_DIR$/Subiect1ProxyComposite/Subiect1ProxyComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiect4DecoratorComposite/Subiect4DecoratorComposite.iml" filepath="$PROJECT_DIR$/Subiect4DecoratorComposite/Subiect4DecoratorComposite.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainPb12STB/ChainPb12STB.iml" filepath="$PROJECT_DIR$/ChainPb12STB/ChainPb12STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarSapt12.iml" filepath="$PROJECT_DIR$/SeminarSapt12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplatePb14STBMetrou/TemplatePb14STBMetrou.iml" filepath="$PROJECT_DIR$/TemplatePb14STBMetrou/TemplatePb14STBMetrou.iml" />
+    </modules>
+  </component>
+</project>
