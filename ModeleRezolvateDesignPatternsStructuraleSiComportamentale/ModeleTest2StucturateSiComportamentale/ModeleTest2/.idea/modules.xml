@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModeleTest2.iml" filepath="$PROJECT_DIR$/ModeleTest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiect1ProxyComposite/Subiect1ProxyComposite.iml" filepath="$PROJECT_DIR$/Subiect1ProxyComposite/Subiect1ProxyComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiect2TemplateFlyweight/Subiect2TemplateFlyweight.iml" filepath="$PROJECT_DIR$/Subiect2TemplateFlyweight/Subiect2TemplateFlyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiect3StrategyChainOfResponsability/Subiect3StrategyChainOfResponsability.iml" filepath="$PROJECT_DIR$/Subiect3StrategyChainOfResponsability/Subiect3StrategyChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiect4DecoratorComposite/Subiect4DecoratorComposite.iml" filepath="$PROJECT_DIR$/Subiect4DecoratorComposite/Subiect4DecoratorComposite.iml" />
     </modules>
   </component>
