@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Subiect3StrategyChainOfResponsability/Subiect3StrategyChainOfResponsability.iml" filepath="$PROJECT_DIR$/Subiect3StrategyChainOfResponsability/Subiect3StrategyChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiect4DecoratorComposite/Subiect4DecoratorComposite.iml" filepath="$PROJECT_DIR$/Subiect4DecoratorComposite/Subiect4DecoratorComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiect4DecoratorCompositeVar2/Subiect4DecoratorCompositeVar2.iml" filepath="$PROJECT_DIR$/Subiect4DecoratorCompositeVar2/Subiect4DecoratorCompositeVar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiect5Proxy/Subiect5Proxy.iml" filepath="$PROJECT_DIR$/Subiect5Proxy/Subiect5Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiect7DecoratorComposite/Subiect7DecoratorComposite.iml" filepath="$PROJECT_DIR$/Subiect7DecoratorComposite/Subiect7DecoratorComposite.iml" />
     </modules>
   </component>
 </project>
