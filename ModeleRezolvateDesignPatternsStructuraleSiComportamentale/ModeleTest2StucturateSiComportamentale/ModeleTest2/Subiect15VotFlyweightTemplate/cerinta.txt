@@ -1,0 +1,34 @@
+În cadrul unui referendum, milioane de secții de votare distribuie buletine de vot.
+ Aceste buletine au același model, dar se personalizează doar cu informațiile despre votant și secție.
+  Pentru a optimiza memoria,
+ modelul buletinului de vot și metodele de verificare se partajează folosind Flyweight Pattern.
+
+ Realizați o aplicație care are rolul de a simula distribuirea și procesarea buletinelor de vot
+  în cadrul unui referendum. Fiecare buletin conține un model fix (layout, explicații generale,
+   instrucțiuni de completare etc.), dar este completat cu numele votantului și secția de vot la
+    care participă. Având în vedere că buletinul de vot are un conținut fix și este comun pentru
+     toți votanții,
+  să se utilizeze Flyweight Pattern pentru a reduce memoria alocată acestor obiecte repetitive.
+
+  Să se testeze soluția prin generarea a minim 10 buletine de vot pentru 2 județe diferite,
+   utilizând modelul comun de buletin partajat. Să se afișeze pentru fiecare buletin
+    numele votantului, secția și instrucțiunile (venite din Flyweight-ul partajat).
+     Să se evidențieze
+   că instanțele de buletin sunt reutilizate (ex: afișând un mesaj doar la crearea lor inițială).
+
+
+   În secția de votare, persoana este verificată pe baza buletinului.
+    Persoana primește un buletin de vot. Dacă adresa de pe buletin nu aparține de secția de votare,
+     atunci persoana primește un buletin de vot dedicat listelor suplimentare (LS).
+      Să se modeleze acest proces cunoscându-se că procedura este aceeași pentru
+       toate persoanele, însă unele etape pot fi diferite în funcție de secția
+        de votare (străinătate sau în țară). Pe baza metodelor expuse în
+        interfața AbstractVotare să se construiască un șablon cu sens în
+        care unii pași sunt aceeași iar alții diferă de la o secție de votare la alta.
+
+   1p. Să se motiveze în scris alegerea design pattern-ului care modelează cel mai bine
+    situația enunțată. Motivarea trebuie să conțină elementele cheie care denotă
+     utilizarea respectivului design pattern.
+
+   3p. Să se testeze soluția prin crearea unei secții de votare în țară
+   precum și una în străinătate. Să se simuleze procesul de votare.
